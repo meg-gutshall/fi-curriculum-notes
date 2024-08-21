@@ -32,9 +32,8 @@ description: Version 8
 
 ## [Module 13: Rails](module-13-rails/curriculum-tree.md)
 
-## [Module 14: Front-End Web Programming in JavaScript]()
+## [Module 14: Front-End Web Programming in JavaScript](module-14-fewpjs/curriculum-tree.md)
 
-## [Module 15: React]()
+## [Module 15: React](module-15-react/curriculum-tree.md)
 
-## [Module 16: Redux]()
-
+## [Module 16: Redux](module-16-redux/curriculum-tree.md)
